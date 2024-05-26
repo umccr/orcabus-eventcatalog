@@ -5,6 +5,7 @@ module.exports = {
   projectName: 'OrcaBus Event Catalog',
   editUrl: '',
   trailingSlash: true,
+  basePath: '/orcabus-eventcatalog',
   primaryCTA: {
     label: 'Explore Events',
     href: '/events'

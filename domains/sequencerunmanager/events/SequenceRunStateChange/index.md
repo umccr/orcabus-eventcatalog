@@ -6,7 +6,7 @@ summary: |
 producers:
     - sequencerunmanager
 consumers:
-    - BSSH
+    - bsrunsuploadmanager
 owners:
     - Victor
 ---
